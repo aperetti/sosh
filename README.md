@@ -1,1 +1,2 @@
-# soch\nDapp for content gnerators
+# soch\nDapp for content generators
+
